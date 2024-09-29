@@ -1,3 +1,6 @@
 [submodule "ROS2_servo_motion"]
     path = ROS2_servo_motion
     url = git@github.com:mataruzz/ROS2_servo_motion.git
+[submodule "GPIO_RPI5"]
+	path = GPIO_RPI5
+	url = git@github.com:SimedruF/GPIO_RPI5.git
